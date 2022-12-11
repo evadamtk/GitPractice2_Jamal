@@ -1,2 +1,2 @@
 # GitPractice2
-Git practice 
+Files for git/GitHub practice 
